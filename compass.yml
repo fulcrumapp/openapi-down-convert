@@ -1,0 +1,16 @@
+name: openapi-down-convert
+id: ari:cloud:compass:9233df39-e597-47e6-ab42-e07f4d48709c:component/30d7834e-f829-4e6c-9b1b-cc6d8c1e56c5/f87fa4b0-eb65-460a-ab4d-43321d1ddc5a
+description: Convert an OpenAPI 3.1.x document to OpenAPI 3.0.x format
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/fulcrumapp/openapi-down-convert
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
